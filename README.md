@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcus Molinero (a.k.a Molinux) from Brazil (🇧🇷). I've been working with Linux and OpenSource technologies since 2005. Currently I'm a Freelancer Linux and OpenSource Specialist. I'm passionate about open source technologies and to help companies to improve your workflow through opensource solutions or deeloped by me.
+My name is Marcus Molinero (a.k.a Molinux) from Brazil (🇧🇷). I've been working with Linux and OpenSource technologies since 2005. Currently I'm a Freelancer Linux and OpenSource Specialist. I'm passionate about open source technologies and to help companies to improve your workflow through opensource solutions or developed by me.
 
 In my free time I like to practice some sports (:swimmer: :bike: :running:), photography (:camera:) and coding (:computer:)
 
