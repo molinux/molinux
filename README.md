@@ -8,7 +8,7 @@ Here are some technologies that I have been working and studying currently:
 
 ```JSON
 {
-      "DevOps": ["Docker", "AWS", "Kubernetes", "Ansible", "Zabbix", "Bacula"],
+      "DevOps": ["Docker", "Cloud Computing", "Kubernetes", "Ansible", "Zabbix", "Bacula"],
          "Dev": ["JavaScript", "NodeJS", "ReactJS", "React Native", "Python"],
  "Audiovisual": ["Photoshop", "Premiere", "After Effects", "Illustrator"]
 }
