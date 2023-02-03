@@ -9,7 +9,7 @@ Linux Certified: LPIC-1, LPIC-2, Novell Linux Administrator
 ITIL Certified: ITIL Foundations
 Cisco Certified: Cisco CCNA
 AWS Certified: Cloud Practitioner
-Oracle Certified: OCI Foundations, OCI Architect Associate
+Oracle Cloud Certified: OCI Foundations, OCI Architect Associate
 ```
 
 Here are some technologies that I have been working and studying currently:
