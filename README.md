@@ -4,11 +4,13 @@ My name is Marcus Molinero (a.k.a Molinux) from Brazil (🇧🇷). I've been wor
 
 In my free time I like to practice some sports (:swimmer: :bike: :running:), photography (:camera:) and coding (:computer:)
 
+```
 Linux Certified: LPIC-1, LPIC-2, Novell Linux Administrator
 ITIL Certified: ITIL Foundations
 Cisco Certified: Cisco CCNA
 AWS Certified: Cloud Practitioner
 Oracle Certified: OCI Foundations, OCI Architect Associate
+```
 
 Here are some technologies that I have been working and studying currently:
 
