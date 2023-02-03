@@ -2,7 +2,7 @@
 
 My name is Marcus Molinero (a.k.a Molinux) from Brazil (🇧🇷). I've been working with Linux and OpenSource technologies since 2005. Currently I'm a Freelancer Linux and OpenSource Specialist. I'm passionate about open source technologies and to help companies to improve your workflow through opensource solutions or developed by me.
 
-In my free time I like to practice some sports (:swimmer: :bike: :running:), photography (:camera:) and coding (:computer:)
+In my free time I like to practice some sports (:swimmer: :bike: :running:), to help my friend to improve your life projects (:green_heart:) and coding (:computer:)
 
 ```
 Linux Certified: LPIC-1, LPIC-2, Novell Linux Administrator
@@ -21,6 +21,8 @@ Here are some technologies that I have been working and studying currently:
  "Audiovisual": ["Photoshop", "Premiere", "After Effects", "Illustrator"]
 }
 ```
+
+My current reading (:orange_book:): `The 7 habits of Highly Effective People`
 
 Would you like to find me?
 
