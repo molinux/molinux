@@ -22,7 +22,7 @@ Here are some technologies that I have been working and studying currently:
 }
 ```
 
-My current reading (:orange_book:): `The 7 habits of Highly Effective People`
+My current reading (:orange_book:): `The 7 Habits of Highly Effective People`
 
 Would you like to find me?
 
