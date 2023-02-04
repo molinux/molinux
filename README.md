@@ -18,7 +18,7 @@ Here are some technologies that I have been working and studying currently:
 {
       "DevOps": ["Docker", "Cloud Computing", "Kubernetes", "Ansible", "Zabbix", "Bacula"],
          "Dev": ["JavaScript", "NodeJS", "ReactJS", "React Native", "Python", "Django"],
- "UI/UX": ["Figma", "Typography", "Color Grading", "Prototype"]
+       "UI/UX": ["Figma", "Typography", "Color Grading", "Prototype"]
 }
 ```
 
