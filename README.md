@@ -22,7 +22,7 @@ Here are some technologies that I have been working and studying currently:
 }
 ```
 
-My current reading (:orange_book:): `The 7 Habits of Highly Effective People` and `Introdução a Programação para Bioinformática`
+My current reading (:orange_book:): `Ultralearning` and `Introdução a Programação para Bioinformática`
 
 Would you like to find me?
 
